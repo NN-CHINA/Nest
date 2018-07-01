@@ -1,0 +1,20 @@
+PODS:
+  - MJRefresh (3.1.15.1)
+  - TYPagerController (2.1.0)
+
+DEPENDENCIES:
+  - MJRefresh
+  - TYPagerController
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - MJRefresh
+    - TYPagerController
+
+SPEC CHECKSUMS:
+  MJRefresh: 5f8552bc25ca8751c010f621c1098dbdaacbccd6
+  TYPagerController: 4b9dd419853e299f4390107d4c67de6949a52014
+
+PODFILE CHECKSUM: 8531d292ce7bfbd12878e5d322b98c0e796e8204
+
+COCOAPODS: 1.5.2
